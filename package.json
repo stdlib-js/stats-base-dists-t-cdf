@@ -41,7 +41,8 @@
     "@stdlib/math-base-special-betainc": "^0.0.6",
     "@stdlib/math-base-special-pow": "^0.0.7",
     "@stdlib/utils-constant-function": "^0.0.8",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.7"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.7",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2"
   },
   "devDependencies": {
     "@stdlib/bench": "^0.0.12",
