@@ -37,20 +37,20 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-assert-is-nan": "^0.0.x",
-    "@stdlib/math-base-special-betainc": "^0.0.x",
-    "@stdlib/math-base-special-pow": "^0.0.x",
-    "@stdlib/utils-constant-function": "^0.0.x",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
+    "@stdlib/math-base-assert-is-nan": "^0.0.8",
+    "@stdlib/math-base-special-betainc": "^0.0.6",
+    "@stdlib/math-base-special-pow": "^0.0.7",
+    "@stdlib/utils-constant-function": "^0.0.8",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.7"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.0.x",
-    "@stdlib/constants-float64-eps": "^0.0.x",
-    "@stdlib/constants-float64-ninf": "^0.0.x",
-    "@stdlib/constants-float64-pinf": "^0.0.x",
-    "@stdlib/math-base-special-abs": "^0.0.x",
-    "@stdlib/math-base-special-ceil": "^0.0.x",
-    "@stdlib/random-base-randu": "^0.0.x",
+    "@stdlib/bench": "^0.0.12",
+    "@stdlib/constants-float64-eps": "^0.0.8",
+    "@stdlib/constants-float64-ninf": "^0.0.8",
+    "@stdlib/constants-float64-pinf": "^0.0.8",
+    "@stdlib/math-base-special-abs": "^0.0.6",
+    "@stdlib/math-base-special-ceil": "^0.0.8",
+    "@stdlib/random-base-randu": "^0.0.8",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
@@ -88,7 +88,7 @@
     "continuous"
   ],
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
