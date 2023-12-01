@@ -44,7 +44,7 @@
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.1.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/constants-float64-eps": "^0.1.1",
     "@stdlib/constants-float64-ninf": "^0.1.1",
     "@stdlib/constants-float64-pinf": "^0.1.1",
