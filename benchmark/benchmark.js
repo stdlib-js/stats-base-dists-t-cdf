@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var ceil = require( '@stdlib/math-base-special-ceil' );
 var randu = require( '@stdlib/random-base-randu' );
 var isnan = require( '@stdlib/math-base-assert-is-nan' );
