@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-special-betainc": "^0.2.1",
+    "@stdlib/math-base-special-betainc": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/utils-constant-function": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
