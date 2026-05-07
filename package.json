@@ -51,7 +51,7 @@
     "@stdlib/math-base-special-abs": "^0.2.3",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.2",
-    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
