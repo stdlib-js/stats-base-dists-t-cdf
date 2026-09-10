@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-10)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f9a255c`](https://github.com/stdlib-js/stdlib/commit/f9a255c1b848c5cc2a5b2dd96a3c2d5f9dc90cf2) - **test:** migrate `stats/base/dists/t/cdf` to ULP-based assertions [(#15135)](https://github.com/stdlib-js/stdlib/pull/15135) _(by Aryan kumar)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aryan kumar
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
