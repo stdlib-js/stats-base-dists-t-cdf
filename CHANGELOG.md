@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-10)
+## Unreleased (2026-09-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`42d3459`](https://github.com/stdlib-js/stdlib/commit/42d345944ad067d4b9db02cc05b6adb2f232b635) - **style:** add missing spaces [(#15143)](https://github.com/stdlib-js/stdlib/pull/15143) _(by Philipp Burckhardt)_
 -   [`f9a255c`](https://github.com/stdlib-js/stdlib/commit/f9a255c1b848c5cc2a5b2dd96a3c2d5f9dc90cf2) - **test:** migrate `stats/base/dists/t/cdf` to ULP-based assertions [(#15135)](https://github.com/stdlib-js/stdlib/pull/15135) _(by Aryan kumar)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Philipp Burckhardt
 
 </section>
 
