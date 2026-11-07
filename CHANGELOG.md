@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-11-07)
+
+<section class="features">
+
+### Features
+
+-   [`f24ac29`](https://github.com/stdlib-js/stdlib/commit/f24ac296bb5455bb6d4df9428cc6d513c60be940) - add C implementation for `stats/base/dists/t/cdf` [(#14693)](https://github.com/stdlib-js/stdlib/pull/14693)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3869](https://github.com/stdlib-js/stdlib/issues/3869)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`f24ac29`](https://github.com/stdlib-js/stdlib/commit/f24ac296bb5455bb6d4df9428cc6d513c60be940) - **feat:** add C implementation for `stats/base/dists/t/cdf` [(#14693)](https://github.com/stdlib-js/stdlib/pull/14693) _(by Philipp Burckhardt, Karan Anand)_
 -   [`42d3459`](https://github.com/stdlib-js/stdlib/commit/42d345944ad067d4b9db02cc05b6adb2f232b635) - **style:** add missing spaces [(#15143)](https://github.com/stdlib-js/stdlib/pull/15143) _(by Philipp Burckhardt)_
 -   [`f9a255c`](https://github.com/stdlib-js/stdlib/commit/f9a255c1b848c5cc2a5b2dd96a3c2d5f9dc90cf2) - **test:** migrate `stats/base/dists/t/cdf` to ULP-based assertions [(#15135)](https://github.com/stdlib-js/stdlib/pull/15135) _(by Aryan kumar)_
 
@@ -25,9 +48,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
